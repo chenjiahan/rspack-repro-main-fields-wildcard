@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@rspack/cli": "latest",
+    "@rspack/cli": "^0.3.8",
     "html-webpack-plugin": "^5.5.3",
     "webpack": "^5.79.0",
     "webpack-cli": "^5.0.1"
